@@ -130,8 +130,8 @@
   <data name="asagi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\asagi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="wired-flat-45-clock-time" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\wired-flat-45-clock-time.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="saat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\saat.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="mayin" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mayin.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -139,10 +139,7 @@
   <data name="sag" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pngtree-vector-arrows-arrow-icon-arrow-vector-icon-arrow-png-image_4294132" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngtree-vector-arrows-arrow-icon-arrow-vector-icon-arrow-png-image_4294132.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ChatGPT Image Dec 20, 2025, 01_32_43 PM (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ChatGPT Image Dec 20, 2025, 01_32_43 PM (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bulut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bulut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

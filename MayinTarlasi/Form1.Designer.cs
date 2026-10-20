@@ -328,7 +328,7 @@
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox3.Image = global::MayinTarlasi.Properties.Resources.ChatGPT_Image_Dec_20__2025__01_32_43_PM__1_;
+            this.pictureBox3.Image = global::MayinTarlasi.Properties.Resources.bulut;
             this.pictureBox3.Location = new System.Drawing.Point(328, 0);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(208, 667);
@@ -349,7 +349,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.Image = global::MayinTarlasi.Properties.Resources.wired_flat_45_clock_time;
+            this.pictureBox1.Image = global::MayinTarlasi.Properties.Resources.saat;
             this.pictureBox1.Location = new System.Drawing.Point(833, 51);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(35, 35);

@@ -73,9 +73,9 @@ namespace MayinTarlasi.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
-        internal static System.Drawing.Bitmap ChatGPT_Image_Dec_20__2025__01_32_43_PM__1_ {
+        internal static System.Drawing.Bitmap bulut {
             get {
-                object obj = ResourceManager.GetObject("ChatGPT Image Dec 20, 2025, 01_32_43 PM (1)", resourceCulture);
+                object obj = ResourceManager.GetObject("bulut", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,16 +103,6 @@ namespace MayinTarlasi.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
-        internal static System.Drawing.Bitmap pngtree_vector_arrows_arrow_icon_arrow_vector_icon_arrow_png_image_4294132 {
-            get {
-                object obj = ResourceManager.GetObject("pngtree-vector-arrows-arrow-icon-arrow-vector-icon-arrow-png-image_4294132", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
-        /// </summary>
         internal static System.Drawing.Bitmap sag {
             get {
                 object obj = ResourceManager.GetObject("sag", resourceCulture);
@@ -133,9 +123,9 @@ namespace MayinTarlasi.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
-        internal static System.Drawing.Bitmap wired_flat_45_clock_time {
+        internal static System.Drawing.Bitmap saat {
             get {
-                object obj = ResourceManager.GetObject("wired-flat-45-clock-time", resourceCulture);
+                object obj = ResourceManager.GetObject("saat", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

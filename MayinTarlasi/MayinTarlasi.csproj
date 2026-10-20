@@ -88,13 +88,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\mayın.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\mayin.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\pngtree-vector-arrows-arrow-icon-arrow-vector-icon-arrow-png-image_4294132.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\asagi.png" />
@@ -109,13 +103,13 @@
     <None Include="Resources\yukari.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\wired-flat-45-clock-time.png" />
+    <None Include="Resources\saat.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\iconmayin.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ChatGPT Image Dec 20, 2025, 01_32_43 PM %281%29.png" />
+    <None Include="Resources\bulut.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
