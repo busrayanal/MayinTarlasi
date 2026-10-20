@@ -15,6 +15,15 @@ A minefield game built with C# Windows Forms. The player starts at the **top-lef
 > [!NOTE]
 > The game's user interface and the code comments are in Turkish.
 
+## ⬇️ Download & Play
+
+No Visual Studio needed:
+
+1. Download **`MayinTarlasi-v1.0.zip`** from the [latest release](https://github.com/busrayanal/MayinTarlasi/releases/latest).
+2. Extract the zip and run **`MayinTarlasi.exe`**.
+
+Requires Windows with .NET Framework 4.7.2 or later (already installed on Windows 10/11).
+
 ## 🕹️ How to Play
 
 1. Enter your player name.
@@ -53,7 +62,7 @@ This project was built to learn and reinforce game logic:
 - Visual Studio
 - [Guna.UI2.WinForms](https://www.nuget.org/packages/Guna.UI2.WinForms): NuGet package for UI components
 
-## ▶️ Getting Started
+## ▶️ Building from Source
 
 1. Clone the repository:
    ```bash
@@ -72,7 +81,7 @@ MayinTarlasi/
     ├── Form1.cs              # Game logic (movement, mine checks, scores)
     ├── Form1.Designer.cs     # UI layout
     ├── Program.cs            # Application entry point
-    └── Resources/            # Images (mine, arrow buttons, icons)
+    └── Resources/            # Images (mine, arrow buttons, clock, background)
 ```
 
 ## 📸 Screenshots
@@ -84,6 +93,10 @@ MayinTarlasi/
 | Name entry | Help | Scores |
 |:---:|:---:|:---:|
 | <img width="280" alt="Name entry" src="https://github.com/user-attachments/assets/bb803b09-42e4-49d0-8cc3-1de2ddd6c650" /> | <img width="220" alt="Help" src="https://github.com/user-attachments/assets/573b04c2-00fb-446f-ac17-3c3f2304cfb0" /> | <img width="130" alt="Scores" src="https://github.com/user-attachments/assets/4dce00d6-655b-4212-a425-a01d753f866b" /> |
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## 👩‍💻 Developer
 

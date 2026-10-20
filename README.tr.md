@@ -12,6 +12,15 @@ C# Windows Forms ile geliştirilmiş bir mayın tarlası oyunu. Oyuncu, 20x20'li
   <img width="700" alt="Oyun ekranı" src="https://github.com/user-attachments/assets/e8a5f727-7ace-4d16-b8dc-a5df6a7069b9" />
 </p>
 
+## ⬇️ İndir ve Oyna
+
+Visual Studio gerekmez:
+
+1. [Son sürüm](https://github.com/busrayanal/MayinTarlasi/releases/latest) sayfasından **`MayinTarlasi-v1.0.zip`** dosyasını indir.
+2. Zip dosyasını klasöre çıkar ve **`MayinTarlasi.exe`** dosyasını çalıştır.
+
+Windows ve .NET Framework 4.7.2 veya üstü gerekir (Windows 10/11'de zaten yüklüdür).
+
 ## 🕹️ Nasıl Oynanır?
 
 1. Oyuncu adını gir.
@@ -50,7 +59,7 @@ Bu proje oyun mantığını öğrenmek ve pekiştirmek amacıyla yapılmıştır
 - Visual Studio
 - [Guna.UI2.WinForms](https://www.nuget.org/packages/Guna.UI2.WinForms): arayüz bileşenleri için NuGet paketi
 
-## ▶️ Nasıl Çalıştırılır?
+## ▶️ Kaynak Koddan Derleme
 
 1. Repoyu bilgisayarına indir:
    ```bash
@@ -69,7 +78,7 @@ MayinTarlasi/
     ├── Form1.cs              # Oyun mantığı (hareket, mayın kontrolü, skorlar)
     ├── Form1.Designer.cs     # Arayüz tasarımı
     ├── Program.cs            # Uygulamanın giriş noktası
-    └── Resources/            # Görseller (mayın, yön okları, ikonlar)
+    └── Resources/            # Görseller (mayın, yön okları, saat, arka plan)
 ```
 
 ## 📸 Ekran Görüntüleri
@@ -81,6 +90,10 @@ MayinTarlasi/
 | İsim girişi | Yardım | Skorlar |
 |:---:|:---:|:---:|
 | <img width="280" alt="İsim girişi" src="https://github.com/user-attachments/assets/bb803b09-42e4-49d0-8cc3-1de2ddd6c650" /> | <img width="220" alt="Yardım" src="https://github.com/user-attachments/assets/573b04c2-00fb-446f-ac17-3c3f2304cfb0" /> | <img width="130" alt="Skorlar" src="https://github.com/user-attachments/assets/4dce00d6-655b-4212-a425-a01d753f866b" /> |
+
+## 📄 Lisans
+
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ## 👩‍💻 Geliştirici
 
