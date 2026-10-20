@@ -19,7 +19,7 @@ A minefield game built with C# Windows Forms. The player starts at the **top-lef
 
 No Visual Studio needed:
 
-1. Download **`MayinTarlasi-v1.0.zip`** from the [latest release](https://github.com/busrayanal/MayinTarlasi/releases/latest).
+1. Download **`MayinTarlasi-v1.0.zip`** from the [latest release](https://github.com/busrayanal/Minefield-Game/releases/latest).
 2. Extract the zip and run **`MayinTarlasi.exe`**.
 
 Requires Windows with .NET Framework 4.7.2 or later (already installed on Windows 10/11).
@@ -66,7 +66,7 @@ This project was built to learn and reinforce game logic:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/busrayanal/MayinTarlasi.git
+   git clone https://github.com/busrayanal/Minefield-Game.git
    ```
 2. Open `MayinTarlasi.sln` in **Visual Studio**.
 3. Visual Studio restores the missing NuGet package (Guna.UI2) automatically. If it doesn't: *right-click the Solution → Restore NuGet Packages*.
@@ -75,7 +75,7 @@ This project was built to learn and reinforce game logic:
 ## 📁 Project Structure
 
 ```
-MayinTarlasi/
+Minefield-Game/
 ├── MayinTarlasi.sln          # Visual Studio solution file
 └── MayinTarlasi/
     ├── Form1.cs              # Game logic (movement, mine checks, scores)

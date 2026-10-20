@@ -16,7 +16,7 @@ C# Windows Forms ile geliştirilmiş bir mayın tarlası oyunu. Oyuncu, 20x20'li
 
 Visual Studio gerekmez:
 
-1. [Son sürüm](https://github.com/busrayanal/MayinTarlasi/releases/latest) sayfasından **`MayinTarlasi-v1.0.zip`** dosyasını indir.
+1. [Son sürüm](https://github.com/busrayanal/Minefield-Game/releases/latest) sayfasından **`MayinTarlasi-v1.0.zip`** dosyasını indir.
 2. Zip dosyasını klasöre çıkar ve **`MayinTarlasi.exe`** dosyasını çalıştır.
 
 Windows ve .NET Framework 4.7.2 veya üstü gerekir (Windows 10/11'de zaten yüklüdür).
@@ -63,7 +63,7 @@ Bu proje oyun mantığını öğrenmek ve pekiştirmek amacıyla yapılmıştır
 
 1. Repoyu bilgisayarına indir:
    ```bash
-   git clone https://github.com/busrayanal/MayinTarlasi.git
+   git clone https://github.com/busrayanal/Minefield-Game.git
    ```
 2. `MayinTarlasi.sln` dosyasını **Visual Studio** ile aç.
 3. Visual Studio eksik NuGet paketini (Guna.UI2) otomatik olarak geri yükler. Yüklemezse: *Solution'a sağ tık → Restore NuGet Packages*.
@@ -72,7 +72,7 @@ Bu proje oyun mantığını öğrenmek ve pekiştirmek amacıyla yapılmıştır
 ## 📁 Proje Yapısı
 
 ```
-MayinTarlasi/
+Minefield-Game/
 ├── MayinTarlasi.sln          # Visual Studio çözüm dosyası
 └── MayinTarlasi/
     ├── Form1.cs              # Oyun mantığı (hareket, mayın kontrolü, skorlar)
