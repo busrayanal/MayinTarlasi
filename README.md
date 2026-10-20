@@ -1,34 +1,51 @@
-# MayinTarlasi
+# 💣 Mayın Tarlası Oyunu (C# WinForms)
+
 A C# WinForms Minesweeper game created for learning and understanding game logic step by step.
-💣 Mayın Tarlası Oyunu (C# WinForms)
+
 Bu proje, C# Windows Forms kullanılarak geliştirilmiş basit bir Mayın Tarlası oyunudur.
 Projenin amacı oyunun mantığını öğrenmek ve pekiştirmek olduğu için bazı yerlerde bilerek kod tekrarı yapılmıştır.
 
-🎯 Amaç
-Oyun mantığını adım adım kavramak
-Dizi (array), koşullar (if), döngüler ve event yapısını öğrenmek
-Zamanlayıcı (Timer) ve dosya işlemleri (File) kullanmak
-🕹️ Oyun Özellikleri
-20x20 oyun alanı
-3 farklı zorluk seviyesi:
-Kolay (40 mayın)
-Orta (50 mayın)
-Zor (80 mayın)
-Yön butonları ile hareket
-Mayına basınca oyun biter
-Süre takibi (Timer)
-Skorların dosyaya kaydedilmesi
-Yakındaki mayın sayısını gösterme
-⚠️ Kod Hakkında Not
+## 🎯 Amaç
+
+- Oyun mantığını adım adım kavramak
+- Dizi (array), koşullar (if), döngüler ve event yapısını öğrenmek
+- Zamanlayıcı (Timer) ve dosya işlemleri (File) kullanmak
+
+## 🕹️ Oyun Özellikleri
+
+- 20x20 oyun alanı
+- 3 farklı zorluk seviyesi:
+  - Kolay (40 mayın)
+  - Orta (50 mayın)
+  - Zor (80 mayın)
+- Yön butonları ile hareket
+- Mayına basınca oyun biter
+- Süre takibi (Timer)
+- Skorların dosyaya kaydedilmesi
+- Yakındaki mayın sayısını gösterme
+
+## ⚠️ Kod Hakkında Not
+
 Normalde tekrar eden kodlar fonksiyonlara ayrılarak daha kısa yazılabilirdi.
 Ancak bu projede mantığı daha iyi öğrenebilmek ve her adımı net görebilmek için bazı kodlar bilinçli olarak tekrar edilmiştir.
 
-🧰 Kullanılan Teknolojiler
-C#
-Windows Forms
-.NET Framework
-Visual Studio
-📸 Ekran Görüntüleri
+## 🧰 Kullanılan Teknolojiler
+
+- C#
+- Windows Forms
+- .NET Framework
+- Visual Studio
+- [Guna.UI2.WinForms](https://www.nuget.org/packages/Guna.UI2.WinForms) (NuGet paketi)
+
+## ▶️ Nasıl Çalıştırılır?
+
+1. Repoyu indirin: `git clone https://github.com/busrayanal/MayinTarlasi.git`
+2. `MayinTarlasi.sln` dosyasını Visual Studio ile açın.
+3. Visual Studio eksik NuGet paketlerini (Guna.UI2) otomatik olarak geri yükler.
+4. **F5** ile çalıştırın.
+
+## 📸 Ekran Görüntüleri
+
 <img width="1331" height="838" alt="MayınTarlasıEkranresmi1" src="https://github.com/user-attachments/assets/e8a5f727-7ace-4d16-b8dc-a5df6a7069b9" />
 <img width="618" height="791" alt="mayınabasmadı" src="https://github.com/user-attachments/assets/af10b31d-1865-477e-a3de-fbb16c1ec934" />
 <img width="563" height="263" alt="İsim" src="https://github.com/user-attachments/assets/bb803b09-42e4-49d0-8cc3-1de2ddd6c650" />
